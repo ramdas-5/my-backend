@@ -1,0 +1,66 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    gap: 20px;
+}
+
+.navbar a{
+    height: 100px;
+    font-size: 30px;
+}
+
+
+.signbutton{
+    height: 50px;
+    width: 100px;
+    border-radius: 50px;
+
+}
+.midimg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 250px;
+
+}
+.gimg{
+    height: 200px;
+}
+
+.searchbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sbox{
+    height: 70px;
+    width: 900px;
+    border-radius: 50px;
+    font-size: 31px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.button2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+
+}
+
+.button2 button {
+    height: 100px;
+    width: 200px;
+    padding: 5px;
+}
